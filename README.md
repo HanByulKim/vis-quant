@@ -3,13 +3,15 @@
 Visualizing DNN Quantization effect on Network.
 
 Vis-quant gives feature map visualization for quantized network with weight quantization.
+
 ① Functionality1: Bit-width selection of weight quantization.
 
-<a href="https://youtu.be/Rlf3xSjMDJU" target="_blank"></a>
+[![Functionality1](https://img.youtube.com/vi/Rlf3xSjMDJU/0.jpg)](https://www.youtube.com/watch?v=Rlf3xSjMDJU)
+
 
 ② Functionality2: Batchnorm shift-term correction with double, triple, .. terms.
 
-<a href="https://youtu.be/43TykyoUxG4" target="_blank"></a>
+[![Functionality1](https://img.youtube.com/vi/43TykyoUxG4/0.jpg)](https://www.youtube.com/watch?v=43TykyoUxG4)
 
 ## Running
 

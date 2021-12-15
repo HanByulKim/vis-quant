@@ -59,6 +59,16 @@ Our project is based on the codes of CNN-Explainer.
 }
 ```
 
+If you find our project helpful, please consider to cite our project
+
+@article{VisQuant2021,
+  title = {{{Vis-Quant}}: {{Visualizing DNN Quantization effect on Network.}},
+  shorttitle = {{{Vis-Quant}}},
+  author = {Han-Byul Kim and Euntae Choi},
+  project={2021SNU_infovisproject},
+  year={2021}
+}
+
 ## License
 
 The software is available under the [MIT License](https://github.com/HanByulKim/vis-quant).

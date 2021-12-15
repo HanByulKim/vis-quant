@@ -61,13 +61,15 @@ Our project is based on the codes of CNN-Explainer.
 
 If you find our project helpful, please consider to cite our project
 
+```bibTeX
 @article{VisQuant2021,
   title = {{{Vis-Quant}}: {{Visualizing DNN Quantization effect on Network.}},
   shorttitle = {{{Vis-Quant}}},
   author = {Han-Byul Kim and Euntae Choi},
-  project={2021SNU_infovisproject},
+  project={2021SNU_infovis},
   year={2021}
 }
+```
 
 ## License
 
